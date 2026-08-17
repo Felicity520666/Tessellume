@@ -1,5 +1,5 @@
-let cols, rows; let size = 25;
-let tiles = []; let hoverDistance = 10;
+let cols, rows; let size = 30;
+let tiles = []; let hoverDistance = 46;
 let colors;
 
 function setup() {

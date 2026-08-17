@@ -1,5 +1,6 @@
 # Tessellume
 
+## About This Project
 An interactive tessellation art piece built with [p5.js](https://p5js.org/). A grid of arc-based tiles responds to your mouse — hovering triggers smooth rotations, and clicking recolors nearby tiles. The result is a living, breathing pattern inspired by Truchet tiles.
 
 ## How It Works
