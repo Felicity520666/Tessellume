@@ -1,7 +1,8 @@
 # Tessellume
 
 ## About This Project
-An interactive tessellation art piece built with [p5.js](https://p5js.org/). A grid of arc-based tiles responds to your mouse — hovering triggers smooth rotations, and clicking recolors nearby tiles. The result is a living, breathing pattern inspired by Truchet tiles.
+
+This is an interactive tessellation art piece built with [p5.js](https://p5js.org/). A grid of arc-based tiles responds to your mouse — hovering triggers smooth rotations, and clicking recolors nearby tiles. The result is a living, breathing pattern inspired by Truchet tiles.
 
 ## How It Works
 
@@ -26,6 +27,9 @@ python3 -m http.server 8000
 ```
 
 Then visit `http://localhost:8000` if using a server.
+
+## Online Demo
+Feel free to check out the live demo [here](https://felicity520666.github.io/Tessellume/)
 
 ## Project Structure
 
@@ -59,6 +63,5 @@ The palette draws from deep ocean blues through warm terracotta tones:
 | Plum | 132, 63, 82 |
 | Mauve | 169, 130, 144 |
 
-## License
-
-MIT
+## Project Screenshot
+![Screenshot of Tessellume](screenshot.png)
