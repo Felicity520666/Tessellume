@@ -1,18 +1,24 @@
-let x, y; let size = 200;
-let angle = 0;
+let cols, rows; let size = 40;
+let tiles = [];
 
 function setup() {
     createCanvas(400, 400);
     rectMode(CENTER);
-    x = width/2;
-    y = height/2;
+    cols = width/size;
+    rows = height/size;
+
+    for (let i=0; i<cols; i++) {
+        tiles[i] = [];
+        for (leyt j=0; j<rows; j++) {
+            let x = i*size + size/2;
+            let y = j*size + size/2;
+            tiles[i][j] = new Tile(x, y);
+        }
+    }
+
 }
 
 function draw() {
     background(220);
-    translate(x, y);
-    rotate(angle);
-    rect(0, 0, size, size);
-
-    AbortController(-size/2, -size/2, size, size, 0, PI/2);
+    for (let i=0; i<)
 }
