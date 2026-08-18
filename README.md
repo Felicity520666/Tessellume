@@ -65,7 +65,7 @@ The palette draws from deep ocean blues through warm terracotta tones:
 
 ## Project Screenshot
 
-![Screenshot of Tessellume](screenshot.png)
+![Screenshot of Tessellume](Screenshot.png)
 
 ## Creator
-Hello everyone! I'm [Felicity](https://github.com/Felicity520666)! I love coding and creating in my free time. This project was inspired by the beauty of patterns and thr elegance of art. I hope you enjoy interacting with it as much as I enjoyed making it!
+Hello everyone! I'm [Felicity](https://github.com/Felicity520666)! I love coding and creating in my free time. This project was inspired by the beauty of patterns and the elegance of art. I hope you enjoy interacting with it as much as I enjoyed making it!
